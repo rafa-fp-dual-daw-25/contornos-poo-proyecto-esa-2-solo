@@ -11,7 +11,7 @@ public class EstacionOptica extends EstacionSeguimiento {
 
 
     @Override
-    public void mantenimiento() {
+    public void realizarMantenimiento() {
         System.out.println("Limpiando lentes y espejos para asegurar que el sistema pueda atravesar la nubosidad o distorsión atmosférica.");
     }
 

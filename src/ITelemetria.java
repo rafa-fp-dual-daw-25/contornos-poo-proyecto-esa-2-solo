@@ -1,4 +1,4 @@
-public interface Telemetria {
+public interface ITelemetria {
 
     void conectar();
 

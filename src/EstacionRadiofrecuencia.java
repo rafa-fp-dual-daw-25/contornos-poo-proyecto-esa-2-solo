@@ -10,7 +10,7 @@ public class EstacionRadiofrecuencia extends EstacionSeguimiento {
     }
 
     @Override
-    public void mantenimiento() {
+    public void realizarMantenimiento() {
         System.out.println("Calibrando el plato de la antena.");
     }
 
